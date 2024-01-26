@@ -1,0 +1,37 @@
+
+> Motrix-1.8.19.AppImage
+
+wget https://ocs-dl.fra1.cdn.digitaloceanspaces.com/data/files/1699736627/Motrix-1.8.19.AppImage?response-content-disposition=attachment%3B%2520Motrix-1.8.19.AppImage&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20240126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240126T052602Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=e360c5bce7ffd02864023aa40a7c6941498d919782acaa4ff87ca2c87d09e692
+
+
+curl https://ocs-dl.fra1.cdn.digitaloceanspaces.com/data/files/1699736627/Motrix-1.8.19.AppImage?response-content-disposition=attachment%3B%2520Motrix-1.8.19.AppImage&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20240126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240126T052602Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=e360c5bce7ffd02864023aa40a7c6941498d919782acaa4ff87ca2c87d09e692
+
+
+> LibreWolf-20220509025416.x86_64.AppImage
+
+
+
+wget https://ocs-dl.fra1.cdn.digitaloceanspaces.com/data/files/1645459027/LibreWolf-20220509025416.x86_64.AppImage?response-content-disposition=attachment%3B%2520LibreWolf-20220509025416.x86_64.AppImage&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20240126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240126T052555Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=b76a5f9e7c3c9132f40e6877805bf68981e9eb4e2b430e4f433bd7b2afc0c419
+
+
+
+curl https://ocs-dl.fra1.cdn.digitaloceanspaces.com/data/files/1645459027/LibreWolf-20220509025416.x86_64.AppImage?response-content-disposition=attachment%3B%2520LibreWolf-20220509025416.x86_64.AppImage&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20240126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240126T052555Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=b76a5f9e7c3c9132f40e6877805bf68981e9eb4e2b430e4f433bd7b2afc0c419
+
+
+
+https://ocs-dl.fra1.cdn.digitaloceanspaces.com/data/files/1645459027/LibreWolf-20220509025416.x86_64.AppImage?response-content-disposition=attachment%3B%2520LibreWolf-20220509025416.x86_64.AppImage&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20240126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240126T052555Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=b76a5f9e7c3c9132f40e6877805bf68981e9eb4e2b430e4f433bd7b2afc0c419
+
+
+> kitty-0.14.3-x86_64.AppImage 
+
+
+curl https://ocs-dl.fra1.cdn.digitaloceanspaces.com/data/files/1548674116/kitty-0.14.3-x86_64.AppImage?response-content-disposition=attachment%3B%2520kitty-0.14.3-x86_64.AppImage&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20240126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240126T052150Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=6804e065a6d76a02af3bf4a1a1c58008935ca4510888ec4514dd8b0228bdb7eb
+
+
+
+wget https://ocs-dl.fra1.cdn.digitaloceanspaces.com/data/files/1548674116/kitty-0.14.3-x86_64.AppImage?response-content-disposition=attachment%3B%2520kitty-0.14.3-x86_64.AppImage&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20240126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240126T052150Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=6804e065a6d76a02af3bf4a1a1c58008935ca4510888ec4514dd8b0228bdb7eb
+
+
+
+https://ocs-dl.fra1.cdn.digitaloceanspaces.com/data/files/1548674116/kitty-0.14.3-x86_64.AppImage?response-content-disposition=attachment%3B%2520kitty-0.14.3-x86_64.AppImage&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=RWJAQUNCHT7V2NCLZ2AL%2F20240126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240126T052150Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=6804e065a6d76a02af3bf4a1a1c58008935ca4510888ec4514dd8b0228bdb7eb
+

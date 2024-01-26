@@ -1,0 +1,72 @@
+CMake es una herramienta muy común y ampliamente utilizada para la construcción y generación de proyectos. Sin embargo, existen algunas alternativas y complementos que pueden adaptarse a diferentes necesidades. Aquí hay algunas opciones:
+
+### 1. Make:
+
+Make es una herramienta de construcción clásica que utiliza archivos de descripción llamados `Makefile`. Puedes escribir tus propios `Makefile` o utilizar herramientas como `autotools` para generarlos automáticamente.
+
+Ejemplo de uso de `make`:
+
+```bash
+# En el directorio del proyecto
+make
+make install
+```
+
+### 2. Meson:
+
+Meson es una herramienta moderna de construcción que se enfoca en ser fácil de usar y rápida. Es especialmente popular en proyectos de código abierto.
+
+Instalación de Meson:
+
+```bash
+sudo pacman -S meson
+```
+
+Ejemplo de uso de Meson:
+
+```bash
+# En el directorio del proyecto
+meson builddir
+cd builddir
+ninja
+ninja install
+```
+
+### 3. SCons:
+
+SCons es otra herramienta de construcción basada en Python. A diferencia de Make, utiliza scripts en Python para describir el proceso de construcción.
+
+Instalación de SCons:
+
+```bash
+sudo pacman -S scons
+```
+
+Ejemplo de uso de SCons:
+
+```bash
+# En el directorio del proyecto
+scons
+scons install
+```
+
+### 4. Ninja:
+
+Ninja es un generador de construcción extremadamente rápido y eficiente que se puede utilizar con CMake, Meson y otros sistemas de construcción.
+
+Instalación de Ninja:
+
+```bash
+sudo pacman -S ninja
+```
+
+Ejemplo de uso de Ninja:
+
+```bash
+# En el directorio del proyecto (junto con CMake)
+cmake -G Ninja .
+ninja
+ninja install
+```
+
+Estas son solo algunas alternativas y hay muchas otras disponibles. La elección de la herramienta depende de tus preferencias personales y los requisitos específicos de tu proyecto. Además, ten en cuenta que algunos proyectos pueden tener sus propias herramientas de construcción personalizadas.

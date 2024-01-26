@@ -1,0 +1,39 @@
+### Arch Linux Script fix and Utilies 
+
+# Zrach 
+
+gti clone https://github.com/callmezatiel/zarch.git
+
+
+
+sudo  chmod 777 -R zarch
+
+
+cd zarch 
+
+sudo bash strap.sh
+
+sudo bash zarch 
+
+
+
+----
+
+
+# Archristo INSTALL UEFFI
+
+
+https://github.com/CodigoCristo/arcris.git
+
+
+pacman -Sy wget --noconfirm
+wget https://raw.githubusercontent.com/CodigoCristo/arcris/master/arcris
+sh arcris
+
+
+loadkeys es
+pacman -Sy wget --noconfirm
+wget is.gd/arcris ; sh arcris
+
+
+
